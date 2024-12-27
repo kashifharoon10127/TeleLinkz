@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 6px 45px;
+  padding: 9px 45px 6px 45px;
   background-color: #1273f6;
   color: #fff;
 }
@@ -53,7 +53,7 @@ body {
   margin: 3px 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 668px) {
   .menu-toggle {
     display: flex;
   }
